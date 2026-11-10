@@ -1,0 +1,14 @@
+# Large source datasets
+data/raw/
+
+# Python environment
+.venv/
+__pycache__/
+*.pyc
+
+# Local secrets
+.streamlit/secrets.toml
+.env
+
+# OS files
+.DS_Store
